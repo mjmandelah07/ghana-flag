@@ -1,0 +1,46 @@
+
+
+
+  #ghana-container {
+      height: 400px;
+      display: flex;
+      flex-direction: column;
+      width: 400px;
+      
+}
+
+
+
+.ghana-red {
+    background-color: red;
+    
+}
+
+
+.ghana-yellow {
+      background-color: yellow;
+
+}
+
+.ghana-green {
+      background-color: green
+}
+
+
+.ghana { 
+      height: 400px;
+      width: 400px;
+}
+
+.center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      
+    }
+img {
+      height: 150px;
+      width: 150px;
+      background-color: yellow;
+      
+}
